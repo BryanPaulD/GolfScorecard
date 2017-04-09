@@ -1,0 +1,11 @@
+html
+{
+    height: 100%
+}
+
+body
+{
+    background-image: url("golfer-swinging-sunset.png");
+    background-size: 125% 100%;
+    background-repeat: no-repeat;
+}
